@@ -5,33 +5,5 @@
     "categoryModel": {
       "idCategory": 1
     }
-  },
-  {
-    "idProduct": 2,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
-    }
-  },
-   {
-    "idProduct": 3,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
-    }
-  },
-   {
-    "idProduct": 4,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
-    }
-  },
-   {
-    "idProduct": 5,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
-    }
-  },
+  }
 ]
