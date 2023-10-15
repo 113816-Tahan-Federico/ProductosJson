@@ -1,44 +1,37 @@
 [
   {
     "idProduct": 1,
-    "name": "Destornillador Phillips",
-    "description": "Destornillador de cabeza Phillips para tareas de montaje.",
-    "unitPrice": 5.99,
-    "stockQuantity": 50,
     "unitOfMeasure": "unidad",
     "categoryModel": {
-      "idCategory": 1,
-      "name": "Herramientas de Mano",
-      "description": "Herramientas manuales para diversas tareas."
-    },
-    "urlImage": null
+      "idCategory": 1
+    }
   },
   {
     "idProduct": 2,
-    "name": "Llave de Tubo",
-    "description": "Llave de tubo ajustable para tuercas y pernos.",
-    "unitPrice": 12.75,
-    "stockQuantity": 40,
     "unitOfMeasure": "unidad",
     "categoryModel": {
-      "idCategory": 1,
-      "name": "Herramientas de Mano",
-      "description": "Herramientas manuales para diversas tareas."
-    },
-    "urlImage": null
+      "idCategory": 1
+    }
   },
-  {
+   {
     "idProduct": 3,
-    "name": "Sierra de Mano",
-    "description": "Sierra de mano para cortes precisos en madera y metal.",
-    "unitPrice": 18.50,
-    "stockQuantity": 30,
     "unitOfMeasure": "unidad",
     "categoryModel": {
-      "idCategory": 1,
-      "name": "Herramientas de Mano",
-      "description": "Herramientas manuales para diversas tareas."
-    },
-    "urlImage": null
-  }
+      "idCategory": 1
+    }
+  },
+   {
+    "idProduct": 4,
+    "unitOfMeasure": "unidad",
+    "categoryModel": {
+      "idCategory": 1
+    }
+  },
+   {
+    "idProduct": 5,
+    "unitOfMeasure": "unidad",
+    "categoryModel": {
+      "idCategory": 1
+    }
+  },
 ]
