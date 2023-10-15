@@ -1,41 +1,32 @@
 {
-  "products":[
-  {
-    "idProduct": 1,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
+  "products": [
+    {
+      "idProduct": 1,
+      "name": "Destornillador Phillips",
+      "description": "Destornillador de cabeza Phillips para tareas de montaje.",
+      "unitPrice": 5.99,
+      "stockQuantity": 50,
+      "unitOfMeasure": "unidad",
+      "categoryModel": {
+        "idCategory": 1,
+        "name": "Herramientas de Mano",
+        "description": "Herramientas manuales para diversas tareas."
+      },
+      "urlImage": null
+    },
+    {
+      "idProduct": 2,
+      "name": "Llave de Tubo",
+      "description": "Llave de tubo ajustable para tuercas y pernos.",
+      "unitPrice": 12.75,
+      "stockQuantity": 40,
+      "unitOfMeasure": "unidad",
+      "categoryModel": {
+        "idCategory": 1,
+        "name": "Herramientas de Mano",
+        "description": "Herramientas manuales para diversas tareas."
+      },
+      "urlImage": null
     }
-  },
-      {
-    "idProduct": 2,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
-    }
-  },
-      {
-    "idProduct": 3,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
-    }
-  },
-      {
-    "idProduct": 4,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
-    }
-  },
-      {
-    "idProduct":5,
-    "unitOfMeasure": "unidad",
-    "categoryModel": {
-      "idCategory": 1
-    }
-  },
-
-]
-
+  ]
 }
