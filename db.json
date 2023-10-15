@@ -1,4 +1,5 @@
-[
+{
+  "products":[
   {
     "idProduct": 1,
     "unitOfMeasure": "unidad",
@@ -7,3 +8,4 @@
     }
   }
 ]
+}
