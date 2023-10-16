@@ -22,7 +22,7 @@
       "stockQuantity": 40,
       "unitOfMeasure": "unidad",
       "categoryModel": {
-        "idCategory": 1,
+        "idCategory": 2,
         "name": "Herramientas de Mano",
         "description": "Herramientas manuales para diversas tareas."
       },
