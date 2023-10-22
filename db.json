@@ -27,6 +27,62 @@
         "description": "Herramientas manuales para diversas tareas."
       },
       "urlImage": null
-    }
+    },
+    {
+    "idProduct": 3,
+    "name": "Martillo",
+    "description": "Martillo resistente para clavar y extraer clavos.",
+    "unitPrice": 8.50,
+    "stockQuantity": 60,
+    "unitOfMeasure": "unidad",
+    "categoryModel": {
+      "idCategory": 1,
+      "name": "Herramientas de Mano",
+      "description": "Herramientas manuales para diversas tareas."
+    },
+    "urlImage": null
+  },
+  {
+    "idProduct": 4,
+    "name": "Alicate",
+    "description": "Alicate multiuso para cortar y sujetar.",
+    "unitPrice": 7.25,
+    "stockQuantity": 45,
+    "unitOfMeasure": "unidad",
+    "categoryModel": {
+      "idCategory": 1,
+      "name": "Herramientas de Mano",
+      "description": "Herramientas manuales para diversas tareas."
+    },
+    "urlImage": null
+  },
+  {
+    "idProduct": 5,
+    "name": "Sierra Manual",
+    "description": "Sierra de mano para cortar madera y otros materiales.",
+    "unitPrice": 15.90,
+    "stockQuantity": 30,
+    "unitOfMeasure": "unidad",
+    "categoryModel": {
+      "idCategory": 1,
+      "name": "Herramientas de Mano",
+      "description": "Herramientas manuales para diversas tareas."
+    },
+    "urlImage": null
+  },
+  {
+    "idProduct": 6,
+    "name": "Cinta Métrica",
+    "description": "Cinta métrica retráctil de 5 metros.",
+    "unitPrice": 4.50,
+    "stockQuantity": 70,
+    "unitOfMeasure": "unidad",
+    "categoryModel": {
+      "idCategory": 1,
+      "name": "Herramientas de Mano",
+      "description": "Herramientas manuales para diversas tareas."
+    },
+    "urlImage": null
+  }
   ]
 }
